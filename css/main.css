@@ -51,7 +51,6 @@ textarea {
 
 body{font-family:arial;font-size:14px; line-height:18px;background:#ECE9D8;}
 .template{width:960px;margin:0 auto;}
-.clear{overflow:hidden;}
 .headsection{height:110px;background:#404040;}
 .title {
   float: left;
@@ -161,11 +160,11 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f29b6f', end
 }
 .samearticle p{}
 .postlink {
-  background: rgba(0, 0, 0, 0) url("../img/linkbg.png") repeat-x scroll 0 0;
+  background-color: white;
   height: 29px;
   margin-bottom: 20px;
   margin-left: 20px;
-  padding-top: 5px;
+  padding-top: 10px;
   width: 170px;
 }
 .postlink a {
