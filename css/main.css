@@ -51,6 +51,7 @@ textarea {
 
 body{font-family:arial;font-size:14px; line-height:18px;background:#ECE9D8;}
 .template{width:960px;margin:0 auto;}
+.clear{overflow:hidden;}
 .headsection{height:110px;background:#404040;}
 .title {
   float: left;
